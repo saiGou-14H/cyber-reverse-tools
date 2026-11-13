@@ -1,0 +1,213 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "CyberChef",
+      "repository": "https://github.com/gchq/CyberChef.git",
+      "commit": "d4d96c6c3d2597fef836d81bfc04617d97c681a5",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "ai-reverse-resources",
+      "repository": "https://github.com/zhizhuodemao/ai-reverse-resources.git",
+      "commit": "ef143189c160eac4f2b55921c586a5e38611b015",
+      "license_files": []
+    },
+    {
+      "id": "android-reverse-engineering-skill",
+      "repository": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill.git",
+      "commit": "0c7cf89830993df7dfc178498f69952262808bea",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "astexplorer",
+      "repository": "https://github.com/fkling/astexplorer.git",
+      "commit": "8888701e97c2efebe6fb118484e67cfc0077d08c",
+      "license_files": [
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "id": "babel",
+      "repository": "https://github.com/babel/babel.git",
+      "commit": "44a7bb02c0a7f8a6f96fb9560d7df855a2366644",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "curl_cffi",
+      "repository": "https://github.com/lexiforest/curl_cffi.git",
+      "commit": "78301ad1ce8bb042a451ffdb05d3037ac9fa2ed1",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "ddddocr",
+      "repository": "https://github.com/sml2h3/ddddocr.git",
+      "commit": "c40f56f95412e10bcb9bd0bd24411e92f896d238",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "forge",
+      "repository": "https://github.com/digitalbazaar/forge.git",
+      "commit": "01119d67bf65e7898717501ff6417bed9cc37233",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "frida-skeleton",
+      "repository": "https://github.com/Margular/frida-skeleton.git",
+      "commit": "82db1b25bd7134cd5917cc95628d057ae28e48a0",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "isolated-vm",
+      "repository": "https://github.com/laverdet/isolated-vm.git",
+      "commit": "d180c5539e2d889d6e1048256b162156af6b1ad2",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "javascript-obfuscator",
+      "repository": "https://github.com/javascript-obfuscator/javascript-obfuscator.git",
+      "commit": "4db5ea3da717f8a4b1aafee6a8fabaeab1804659",
+      "license_files": [
+        "LICENSE.BSD"
+      ]
+    },
+    {
+      "id": "js-reverse-ops",
+      "repository": "https://github.com/DQmyth/js-reverse-ops.git",
+      "commit": "fa399b93a55fe2ba5da09ec46ef0c7072d7bd6cf",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "jsdom",
+      "repository": "https://github.com/jsdom/jsdom.git",
+      "commit": "b76da26fd3b2786771b493f0bbec8dbd7a3d36d0",
+      "license_files": [
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "id": "jshook-skill",
+      "repository": "https://github.com/wuji66dde/jshook-skill.git",
+      "commit": "ffbd3e87c4e3f4631a51b45393a919216f38a2ba",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "jshookmcp",
+      "repository": "https://github.com/vmoranv/jshookmcp.git",
+      "commit": "5ecd198c67358b8e4a0d9ccbd30285d124bc37eb",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "mitmproxy",
+      "repository": "https://github.com/mitmproxy/mitmproxy.git",
+      "commit": "af5d15709bd09d1eb80bf88064540787f6c3e27e",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "playwright",
+      "repository": "https://github.com/microsoft/playwright.git",
+      "commit": "8534271f0413bae6a455b7cf43b2637391bc614b",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "puppeteer",
+      "repository": "https://github.com/puppeteer/puppeteer.git",
+      "commit": "a2465981c2618a829cd27b3cdfe046b3e5d0fc19",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "reverse-skills-p4nda0s",
+      "repository": "https://github.com/P4nda0s/reverse-skills.git",
+      "commit": "a2baa31c58a3567977188414da68c8c842057152",
+      "license_files": []
+    },
+    {
+      "id": "ruishu-re",
+      "repository": "https://github.com/waterbili/ruishu-re.git",
+      "commit": "97ec3d4ab208694c454a5ec69b9f3bacfe34c75d",
+      "license_files": []
+    },
+    {
+      "id": "sdenv",
+      "repository": "https://github.com/pysunday/sdenv.git",
+      "commit": "9a0f2a75369ba256550c637fa1f4c67f2aaec911",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "sm-crypto",
+      "repository": "https://github.com/JuneAndGreen/sm-crypto.git",
+      "commit": "24d38a724aae939597657dcd3f6612e0e2c2d2f2",
+      "license_files": []
+    },
+    {
+      "id": "source-map",
+      "repository": "https://github.com/mozilla/source-map.git",
+      "commit": "8c668f3dd3916e96d06131dec97c78a3e62bd0f3",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "wabt",
+      "repository": "https://github.com/WebAssembly/wabt.git",
+      "commit": "4fbd7198c766e3d450edfe3847ff6f45f360e078",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "webcrack",
+      "repository": "https://github.com/j4k0xb/webcrack.git",
+      "commit": "c80eec5f00622b86cea871d68349750ce950201f",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "websocat",
+      "repository": "https://github.com/vi/websocat.git",
+      "commit": "734de478c6175fe15004dba07d31e8ce85d1bca9",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "id": "whistle",
+      "repository": "https://github.com/avwo/whistle.git",
+      "commit": "b962b8a3b3753557d92dae6a61ec8a7c082b5296",
+      "license_files": [
+        "LICENSE"
+      ]
+    }
+  ]
+}

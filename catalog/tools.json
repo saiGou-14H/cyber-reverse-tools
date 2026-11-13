@@ -1,0 +1,130 @@
+{
+  "tools": [
+    {
+      "name": "babel",
+      "source_id": "babel",
+      "category": "AST与反混淆",
+      "summary": "parser、traverse、types、generator 等语法与 AST 工具链；完整 monorepo 源码。"
+    },
+    {
+      "name": "astexplorer",
+      "source_id": "astexplorer",
+      "category": "AST与反混淆",
+      "summary": "可视化不同 parser 的 AST，辅助编写和验证最小 visitor。"
+    },
+    {
+      "name": "webcrack",
+      "source_id": "webcrack",
+      "category": "AST与反混淆",
+      "summary": "JS 反混淆、展开压缩与 webpack/browserify 模块抽取；基于实际输入验证支持范围。"
+    },
+    {
+      "name": "source-map",
+      "source_id": "source-map",
+      "category": "AST与反混淆",
+      "summary": "读取与生成 source map，进行生成代码和原始源码位置映射。"
+    },
+    {
+      "name": "javascript-obfuscator",
+      "source_id": "javascript-obfuscator",
+      "category": "AST与反混淆",
+      "summary": "生成字符串数组、控制流等混淆样本，用于原理学习和本地变换回归。"
+    },
+    {
+      "name": "jshookmcp",
+      "source_id": "jshookmcp",
+      "category": "JSHook与CDP",
+      "summary": "浏览器控制、CDP、Hook、网络和 JS 分析工具集合；须满足 Node 要求、构建并接入客户端后才可调用。"
+    },
+    {
+      "name": "mitmproxy",
+      "source_id": "mitmproxy",
+      "category": "抓包与代理",
+      "summary": "可编程交互式代理、流量检查与插件处理；源码下载不包含系统代理/证书配置。"
+    },
+    {
+      "name": "whistle",
+      "source_id": "whistle",
+      "category": "抓包与代理",
+      "summary": "Node HTTP/HTTPS/WebSocket 调试代理、规则改写与本地 mock。"
+    },
+    {
+      "name": "websocat",
+      "source_id": "websocat",
+      "category": "抓包与代理",
+      "summary": "命令行 WebSocket 与数据流桥接工具，用于文本和二进制帧实验。"
+    },
+    {
+      "name": "playwright",
+      "source_id": "playwright",
+      "category": "浏览器自动化",
+      "summary": "浏览器自动化、上下文、网络观测和 Trace 调试的官方源码；浏览器二进制需独立安装。"
+    },
+    {
+      "name": "puppeteer",
+      "source_id": "puppeteer",
+      "category": "浏览器自动化",
+      "summary": "浏览器控制和 DevTools 协议相关 API 官方源码；需匹配浏览器与运行环境。"
+    },
+    {
+      "name": "jsdom",
+      "source_id": "jsdom",
+      "category": "JS引擎与DOM环境",
+      "summary": "在 Node 中实现部分 Web 标准的 DOM/HTML 环境；不提供完整浏览器渲染。"
+    },
+    {
+      "name": "sdenv",
+      "source_id": "sdenv",
+      "category": "补环境",
+      "summary": "浏览器对象和宿主 API 的兼容实现与示例；用真实浏览器基线验证所需部分。"
+    },
+    {
+      "name": "isolated-vm",
+      "source_id": "isolated-vm",
+      "category": "JS引擎与DOM环境",
+      "summary": "提供独立 V8 isolate；维护模式，集成方式影响安全，不等于完整浏览器或系统隔离。"
+    },
+    {
+      "name": "sm-crypto",
+      "source_id": "sm-crypto",
+      "category": "国密与加密",
+      "summary": "JavaScript SM2/SM3/SM4 实现；不与 gm-crypto 的 API 或默认参数混用。"
+    },
+    {
+      "name": "forge",
+      "source_id": "forge",
+      "category": "国密与加密",
+      "summary": "node-forge 的密钥、证书、ASN.1、RSA/AES 等能力，用于格式和协议互操作。"
+    },
+    {
+      "name": "CyberChef",
+      "source_id": "CyberChef",
+      "category": "国密与加密",
+      "summary": "编码、压缩、密码和数据格式操作的可视化配方工具；本地构建后使用。"
+    },
+    {
+      "name": "curl_cffi",
+      "source_id": "curl_cffi",
+      "category": "TLS指纹",
+      "summary": "基于 curl 的 Python HTTP 客户端及浏览器配置；不是运行 JavaScript 的浏览器。"
+    },
+    {
+      "name": "ddddocr",
+      "source_id": "ddddocr",
+      "category": "验证码与滑块",
+      "summary": "字符识别、检测与滑块相关图像能力；算法、模型和输入形式分别验证。"
+    },
+    {
+      "name": "wabt",
+      "source_id": "wabt",
+      "category": "WASM与二进制",
+      "summary": "wasm2wat、wasm-objdump、wasm-validate 等 WebAssembly 格式、反汇编和验证工具。"
+    },
+    {
+      "name": "frida-skeleton",
+      "source_id": "frida-skeleton",
+      "category": "移动端与Frida",
+      "summary": "Android Java/native Frida Hook 工程模板与辅助封装。"
+    }
+  ]
+}
